@@ -1,6 +1,6 @@
 -- Fellow script readers/editors, Please do not change it, and if you even change it, credit me maybe?
 
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstrin(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 -- Welcome!
 
